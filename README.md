@@ -89,7 +89,9 @@ The dashboard was developed using **Power Query** for data transformation and **
   - DSRN
 
 ---
-
+- **Weekend vs Weekday Analysis**:  
+  - **Business Hotels**: Typically have higher occupancy during weekdays (Sunday to Friday), with more bookings from corporate or business travelers.
+  - **Leisure Hotels**: Perform better on weekends (Friday to saturday), catering to tourists and vacationers.
 ## 🛠️ **Technologies Used**
 
 - **Power BI**: Data visualization and dashboard creation.
